@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const btn = document.getElementById('btn');
+const btn = document.getElementById('openModal');
 const closeBtn = document.getElementById('close-btn')
 const display = document.querySelector('.modal-container');
 
