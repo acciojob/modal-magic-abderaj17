@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.modal-container{
+	width: 80%;
+	height: 80px;
+	background-color: white;
+	border: 1px solid black;
+	display: none;
+}
+.header{
+	height: 50%;
+	width: 80%;
+	background-color: green;
+}
+.content{
+	display: flex;
+	justify-content: space-between;
+}
